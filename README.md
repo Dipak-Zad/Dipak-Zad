@@ -94,7 +94,7 @@
 <!-- https://github.com/sisodiya2421 -->
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="https://github.com/Dipak-Zad/Dipak-Zad"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/Dipak-Zad"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/dipak-zad-7129a2210/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/people/Dipak-Zad/100004676714446/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/dipak_zad/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
