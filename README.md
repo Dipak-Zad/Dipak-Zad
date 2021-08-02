@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dipak Zad</h1>
-<h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
+<h3 align="center">A Guy trying to Figure-Out Stuff!!</h3>
 
 
 - 👀 I’m interested in FrontEnd development, designing, graphic art, game developement and much more
