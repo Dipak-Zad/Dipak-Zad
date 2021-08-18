@@ -8,7 +8,6 @@
 
 - 👀 I’m interested in FrontEnd development, designing, graphic art, game developement and much more
 - 🌱 I’m currently learning java, python, html5, css3, javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **dipakzad@gmail.com**
 - ⚡ Fun fact **I think I am funny XD**
 
@@ -58,6 +57,7 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Premiere Pro" src="https://img.shields.io/badge/adobepremierepro-FB542B?logo=adobepremierepro&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
